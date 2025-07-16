@@ -1,7 +1,7 @@
 textQuery = input("Enter word/words here: ").lower()
 consonants = "bcdfghjklmnpqrstvwxyz"
 vowels = "aeiou"
-legnthChecker = len(textQuery)
+lengthChecker = len(textQuery)
 vowelCount = 0
 consCount = 0
 spaceChecker = 0
