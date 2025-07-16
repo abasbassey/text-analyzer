@@ -15,3 +15,4 @@ for text in textQuery:
 print(f"There are {vowelCount} vowels in the word '{textQuery}'")
 print(f"There are {consCount} consonants in the word '{textQuery}'")
 print(f"There are {spaceChecker} spaces in the word '{textQuery}'")
+print(f"The total number of characters in your input is {lengthChecker}")
