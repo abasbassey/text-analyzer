@@ -15,4 +15,4 @@ A simple Python program that analyzes text input and provides basic statistics s
 2. Run the program using:
 
 ```bash
-python text_analyzer.py
+python Text Analyzer.py
